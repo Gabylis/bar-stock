@@ -22,24 +22,30 @@ Built for a real bar operation managing multiple sections (Tap Bar, Observatory 
 
 ## Screenshots
 
-**Web App — Setup & Management**
+**Web App — Setup**
 
-| Setup wizard | Quick Order | Restock | Bottle Weight Log |
-|---|---|---|---|
-| ![Setup](screenshots/setup.png) | ![Order](screenshots/order.png) | ![Restock](screenshots/restock.png) | ![Weight](screenshots/weight.png) |
+![Setup 1](screenshots/setup-bar-log-1.png)
+![Setup 2](screenshots/setup-bar-log-2.png)
+![Setup 3](screenshots/setup-bar-log-3.png)
+
+**Web App — Management & Links**
+
+![Manage bar log](screenshots/manage-bar-log-updates.png)
+![Important links](screenshots/manage-bar-l...mportant-links.png)
+
+**Web App — Operations**
+
+| Quick Order | Restock | Bottle Weight Log |
+|---|---|---|
+| ![Quick Order](screenshots/quick-bar-section-order.png) | ![Restock](screenshots/restock.png) | ![Weight Log](screenshots/bottle-weight-log.png) |
 
 **Google Spreadsheet — Auto-generated Charts**
 
-![Charts overview](screenshots/charts_overview.png)
+![Charts overview](screenshots/chats_overview.webp)
 *Exits by Bar Section (donut), Exits by Category (donut), Top Brands by Exits (horizontal bar)*
 
-![Monthly trend](screenshots/charts_monthly.png)
+![Monthly oz consumed](screenshots/oz-consumed-charts.png)
 *Monthly oz consumed per brand, one line chart per bar section — updated automatically from the Bottle Weight Log*
-
-**Spreadsheet — Liquor Log menu**
-
-![Liquor Log menu](screenshots/menu.png)
-*Custom menu installed by the management script: sync brands, refresh dashboard/charts, send daily report, fix formulas, reinstall triggers*
 
 ---
 
