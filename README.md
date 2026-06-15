@@ -31,7 +31,7 @@ Built for a real bar operation managing multiple sections (Tap Bar, Observatory 
 **Web App — Management & Links**
 
 ![Manage bar log](screenshots/manage-bar-log-updates.png)
-![Important links](screenshots/manage-bar-l...mportant-links.png)
+![Important links](screenshots/manage-bar-log-mportant-links.png)
 
 **Web App — Operations**
 
